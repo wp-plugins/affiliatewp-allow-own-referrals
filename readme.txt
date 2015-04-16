@@ -13,7 +13,7 @@ Allows an affiliate to earn commission on their own referral links.
 
 > This plugin requires [AffiliateWP](http://affiliatewp.com/ "AffiliateWP") v1.6+ in order to function.
 
-The standard behaviour of AffiliateWP is to prevent affiliates from earning a commission on their own referral links. When this plugin is installed and activated, affiliates will be able to earn a commission on their own referral links if they make a purchase.
+The standard behaviour of AffiliateWP is to prevent affiliates from earning a commission on their own referrals, either via referral links or coupon codes. When this plugin is installed and activated, affiliates will be able to earn a commission on their own referral links or coupons if they make a purchase.
 
 **What is AffiliateWP?**
 

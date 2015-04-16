@@ -2,7 +2,7 @@
 /**
  * Plugin Name: AffiliateWP - Allow Own Referrals
  * Plugin URI: http://affiliatewp.com/addons/allow-own-referrals
- * Description: Allows an affiliate to use their own referral links and earn a commission on their purchases
+ * Description: Allows an affiliate to earn commission on their own referrals
  * Author: Pippin Williamson and Andrew Munro
  * Author URI: http://affiliatewp.com
  * Version: 1.0
